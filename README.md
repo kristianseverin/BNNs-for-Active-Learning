@@ -32,7 +32,7 @@ To set up the environment and install the necessary dependencies, follow these s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kristianseverin/BNNs-for-Active-and-Continual-Learning.git
-   cd BNNs-for-Active-and-Continual-Learning
+   git clone https://github.com/kristianseverin/BNNs-for-Active-Learning.git
+   cd BNNs-for-Active-Learning
    pip install -r requirements.txt
    ```
